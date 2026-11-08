@@ -1,5 +1,12 @@
 # TORQUE — сайт автосервиса
 
+## Демо
+
+**[Открыть сайт →](https://torque-autoservice.vercel.app)**
+
+![Главный экран — десктоп](screenshots/desktop.png)
+![Мобильная версия](screenshots/mobile.png)
+
 Демонстрационный проект для портфолио: адаптивный
 лендинг автосервиса на Next.js и React.
 
